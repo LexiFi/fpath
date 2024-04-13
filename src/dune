@@ -1,0 +1,5 @@
+(library
+ (public_name fpath)
+ (wrapped false)
+ (libraries astring)
+ (modules fpath))
